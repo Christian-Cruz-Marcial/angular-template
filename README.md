@@ -1,4 +1,5 @@
-# MyApp
+# Angular Template
+Hello world, I simply made this template for personal use in future projects. I removed the default html layout and added bootstrap to the angular.json file. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
